@@ -1,1 +1,3 @@
-# vegetable_garden_data
+# Vegetable garden data
+
+Data from my vegetable garden.
