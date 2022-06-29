@@ -10,3 +10,4 @@ output/∗∗/result.exe
 
 .DS_Store
 *.gsheet
+.Rproj.user
